@@ -1,0 +1,25 @@
+{
+  "name": "infinity_coldplay_register_bot",
+  "version": "1.0.0",
+  "description": "bot to register email to infinity colplay concert",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourior/infinity_colplay_register.git"
+  },
+  "author": "yourior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourior/infinity_colplay_register/issues"
+  },
+  "homepage": "https://github.com/yourior/infinity_colplay_register#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^21.3.8",
+    "readline-sync": "^1.4.10"
+  }
+}
